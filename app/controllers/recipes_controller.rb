@@ -25,6 +25,7 @@ class RecipesController < ApplicationController
       :name,
       :quantity,
       :recipe_id
-      ])
+      ]
+    )
   end
 end
